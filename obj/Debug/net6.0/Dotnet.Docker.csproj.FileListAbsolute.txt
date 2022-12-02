@@ -1,0 +1,15 @@
+/Users/adu/dotnetProjects/App/bin/Debug/net6.0/Dotnet.Docker
+/Users/adu/dotnetProjects/App/bin/Debug/net6.0/Dotnet.Docker.deps.json
+/Users/adu/dotnetProjects/App/bin/Debug/net6.0/Dotnet.Docker.runtimeconfig.json
+/Users/adu/dotnetProjects/App/bin/Debug/net6.0/Dotnet.Docker.dll
+/Users/adu/dotnetProjects/App/bin/Debug/net6.0/Dotnet.Docker.pdb
+/Users/adu/dotnetProjects/App/obj/Debug/net6.0/Dotnet.Docker.csproj.AssemblyReference.cache
+/Users/adu/dotnetProjects/App/obj/Debug/net6.0/Dotnet.Docker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adu/dotnetProjects/App/obj/Debug/net6.0/Dotnet.Docker.AssemblyInfoInputs.cache
+/Users/adu/dotnetProjects/App/obj/Debug/net6.0/Dotnet.Docker.AssemblyInfo.cs
+/Users/adu/dotnetProjects/App/obj/Debug/net6.0/Dotnet.Docker.csproj.CoreCompileInputs.cache
+/Users/adu/dotnetProjects/App/obj/Debug/net6.0/Dotnet.Docker.dll
+/Users/adu/dotnetProjects/App/obj/Debug/net6.0/refint/Dotnet.Docker.dll
+/Users/adu/dotnetProjects/App/obj/Debug/net6.0/Dotnet.Docker.pdb
+/Users/adu/dotnetProjects/App/obj/Debug/net6.0/Dotnet.Docker.genruntimeconfig.cache
+/Users/adu/dotnetProjects/App/obj/Debug/net6.0/ref/Dotnet.Docker.dll

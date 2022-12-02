@@ -1,0 +1,5 @@
+/Users/adu/dotnetProjects/App/bin/Release/net6.0/publish/Dotnet.Docker
+/Users/adu/dotnetProjects/App/bin/Release/net6.0/publish/Dotnet.Docker.dll
+/Users/adu/dotnetProjects/App/bin/Release/net6.0/publish/Dotnet.Docker.deps.json
+/Users/adu/dotnetProjects/App/bin/Release/net6.0/publish/Dotnet.Docker.runtimeconfig.json
+/Users/adu/dotnetProjects/App/bin/Release/net6.0/publish/Dotnet.Docker.pdb
